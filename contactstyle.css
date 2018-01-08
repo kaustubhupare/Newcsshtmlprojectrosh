@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css?family=Julius+Sans+One');
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:200,200i,300i');
+
+body
+{
+	background-color:black;
+	width: 100%;
+	color: white;
+	margin: 0;
+}
+
+.wrap1
+{
+	display: inline-block;
+	color: white;
+	margin-left: 70px;
+	float: left;
+	margin-top: 10px;
+	padding-left:80px; 
+	margin-right: 0px;
+	margin-bottom: 40px;
+}
+
+.wrap2
+{
+	display: inline-block;
+	color: white;
+	margin-left: 70px;
+	float: left;
+	margin-top: 10px;
+	padding-left:80px; 
+	padding-bottom: 41px;
+	margin-bottom: 40px;
+	margin-right: 20px;
+}
+
+.contact .wrap1 h4
+{
+	display: inline-block;
+	margin-bottom: 0px;
+	margin-top: 20px;
+	margin-left: 5px;
+	padding-bottom: 5px;
+}
+.contact .wrap1 h5
+{
+	display: inline-block;
+	font-family: 'Poiret One', cursive;
+	background-color: rgba(255,255,255,0.4);
+	font-size: 13px;
+	padding: 12px;
+	width: 250px;
+	margin-bottom: 12px;
+}
+.generalenquire .wrap2 h5
+{
+	display: inline-block;
+	font-family: 'Poiret One', cursive;
+	background-color: rgba(255,255,255,0.4);
+	font-size: 13px;
+	padding: 12px;
+	width: 250px;	
+	margin-bottom: 12px;
+}
+.generalenquire .wrap2 h4
+{
+	display: inline-block;
+	margin-bottom: 0px;
+	margin-top: 4px;
+	margin-left: 0px;
+	margin-bottom: 10px;
+	font-size: 13px;
+	font-weight: 200;
+}
+.textredfont
+{
+	color: #A80000 ;
+	font-family: 'Poiret One', cursive;
+}
+
+.textfont
+{
+	font-family: 'Poiret One', cursive;
+}
+
+.inputcurv
+{
+	color: #A80000 ;
+	font-family: 'Poiret One', cursive;
+	border-radius: 4px;
+	border: none;
+	outline: none;
+	padding: 5px;
+}
+
+.sbut
+{
+	font-family: 'Julius Sans One', sans-serif;
+	display: inline-block;
+	color: black;
+	border-radius: 4px;
+	outline: none;
+	border: none;
+	margin-top: 10px;
+	width: 30%;
+	padding: 10px;
+	margin-left: auto;
+	text-align: center;
+}
+
+.sbut:hover
+{
+	display: inline-block;
+	background-color: lightgrey;
+	transition-delay: 0.5s;
+	transition-duration: 0.5s;
+	color: white;
+	width: 50%;
+	padding: 15px;
+
+}
+.link 
+{
+text-decoration: none;
+color: inherit;
+}
+.link:hover
+{
+	color: white;
+	padding: 5px;
+	transition-delay: 0.5s;
+	transition-duration: 0.5s;
+}
+.iframe
+{
+	display: inline-block;
+	padding-top: 120px;
+	padding-left: 0px;
+}
+.rule:hover
+{
+	transition-delay: 0.5s;
+	transition-duration: 0.5s;
+	margin-left: -500px;
+}
+
+/*
+section.wrapcontact
+{
+	display: inline-block;
+	margin-left: 10%;
+	padding: 5px;
+}
+.contactinfo .wrapper2 h5
+{	
+	
+	
+	
+}
+*/
+div.vl
+{
+	display: inline-block;
+    border-left: 5px solid lightgrey;
+    height: 500px;
+   
+}
